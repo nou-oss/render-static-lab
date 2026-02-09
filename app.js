@@ -1,7 +1,7 @@
 function sayHello() {
   alert("Hell Cloud-Native Lab! This site scales to zero");
   // Simulate environment variable
-  const SITE_NAME = "Render Lab";
+  const SITE_NAME = "Render Lab – Test 2";
   // Use it in your site
   console.log(`Site deployed on ${SITE_NAME}`);
   // Example: display in HTML
